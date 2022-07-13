@@ -1,7 +1,7 @@
 ## Oooi, meu nome é Kétlin!! 👋
 
-- 🔭 Estagiária de Suporte Técnico
-- 🌱 Cursando o 4º semestre de Análise e Desenvolvimento de Sistemas
+- 🔭 Estagiária de Desenvolvimento de Software na Stara
+- 🌱 Cursando o 6º e último semestre de Análise e Desenvolvimento de Sistemas
 
 Encontre-me 👇🏼
 
